@@ -14,7 +14,6 @@ export default {
         secondary: '#4FD1C5',
         light: '#f7f7f7',
         dark: '#333333',
-        dark2: '#999999'
       },
       
 
